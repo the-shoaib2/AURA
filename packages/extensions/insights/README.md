@@ -1,0 +1,1 @@
+# @aura/aura-extension-insights
